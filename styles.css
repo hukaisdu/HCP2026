@@ -697,6 +697,12 @@ h3 {
   color: var(--muted-text);
 }
 
+.venue-card .hotel-desc {
+  padding: 4px 20px 16px;
+  line-height: 1.75;
+  border-bottom: 1px solid var(--line);
+}
+
 .venue-card p + p {
   padding-top: 0;
 }
@@ -731,9 +737,9 @@ h3 {
 
 .hotel-booking img {
   display: block;
-  width: 180px;
-  height: 180px;
-  margin: 16px auto;
+  width: 220px;
+  height: 220px;
+  margin: 18px auto;
 }
 
 .organization-layout {
