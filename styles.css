@@ -765,6 +765,10 @@ h3 {
   margin: 18px auto;
 }
 
+.button + .hotel-booking {
+  margin-top: 20px;
+}
+
 .qr-placeholder {
   display: flex;
   align-items: center;
