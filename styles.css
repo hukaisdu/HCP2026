@@ -496,6 +496,16 @@ h3 {
   text-decoration: none;
 }
 
+.notice-link {
+  color: var(--sdu-red);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.notice-link:hover {
+  text-decoration: underline;
+}
+
 .schedule-layout {
   display: grid;
   gap: 16px;
