@@ -707,7 +707,7 @@ h3 {
   text-decoration: none;
 }
 
-.hotel-left {
+.hotel-right {
   display: flex;
   flex-direction: column;
   gap: 18px;
@@ -731,9 +731,9 @@ h3 {
 
 .hotel-booking img {
   display: block;
-  width: 190px;
-  height: 190px;
-  margin: 18px auto;
+  width: 180px;
+  height: 180px;
+  margin: 16px auto;
 }
 
 .organization-layout {
